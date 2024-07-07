@@ -1,1 +1,1 @@
-# AirQo-African-Air-Quality-Prediction-Challenge.
+# AirQo-African-Air-Quality-Prediction.
